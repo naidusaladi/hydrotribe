@@ -112,6 +112,7 @@ const StudentRegistrationPage = ({handelRegestration}) => {
               <option value="frontend">Front End</option>
               <option value="backend">Back End</option>
               <option value="IoT">IoT</option>
+              <option value="IoT">Machine Learning</option>
               <option value="roduct Development and Rapid Pototyping">Product Development and Rapid Pototyping</option>
               <option value="Landscape designing in 3D">Landscape designing in 3D</option>
               <option value="Terrace Gardening Design and Installations">Terrace Gardening Design and Installations</option>
