@@ -52,7 +52,7 @@ const Payment = ({handelRegestration,submitUser}) => {
               <li className='flex justify-between items-center border-b-2'><div>Machine Learing with Python</div> <div className='text-green-500'>₹650</div></li>
               <li className='flex justify-between items-center border-b-2'><div>IoT Node MCU, Arduino and Robotics</div> <div className='text-green-500'>₹750</div></li>
               <li className='flex justify-between items-center border-b-2'><div>Product Development and Rapid Prototyping/3D printing</div> <div className='text-green-500'>₹700</div></li>
-              <li className='flex justify-between items-center border-b-2'><div>Landscape designing in 3D Modeling</div> <div className='text-green-500'>₹650</div></li>
+              <li className='flex justify-between items-center border-b-2'><div>Landscape designing in 3D Modeling</div> <div className='text-green-500'>₹1000</div></li>
               <li className='flex justify-between items-center border-b-2'><div>Terrace Gardening Design and Installations 3D Modeling</div> <div className='text-green-500'>₹1000</div></li>
               <li className='flex justify-between items-center border-b-2'><div>Structural Design & Analysis</div> <div className='text-green-500'>₹1000</div></li>
               <li className='flex justify-between items-center border-b-2'><div>Entrepreneurship and Innovation</div> <div className='text-green-500'>₹1000</div></li>
