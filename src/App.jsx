@@ -68,7 +68,7 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home/>}/>
-        <Route path='internship/register' element={<StudentRegistration handelRegestration={handelRegestration}/>}/>
+{/*         <Route path='internship/register' element={<StudentRegistration handelRegestration={handelRegestration}/>}/> */}
         <Route path='internship/payment' element={<Payment handelRegestration={handelRegestration} submitUser={submitUser}/>}/>
         <Route path='internship/login' element={<Login/>}/>
         <Route path='internship/thanks' element={<Thanks studentId={studentId}/>}/>
